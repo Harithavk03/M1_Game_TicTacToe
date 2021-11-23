@@ -1,3 +1,3 @@
 # M1_Game_TicTacToe
 
-https://user-images.githubusercontent.com/80390615/132171903-dc7a8320-52e4-431e-8bf0-79afc2778a19.png
+![SDLC Activity Based Learning](https://user-images.githubusercontent.com/94163693/142990435-63d03699-6bfb-48e4-b776-782a0c39bea0.png)
