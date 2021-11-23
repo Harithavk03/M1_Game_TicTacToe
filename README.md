@@ -20,7 +20,7 @@
 
 1.[markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-2.[markdownBasics](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+2.[markdownBasics](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
 3.[git inspector](https://github.com/ejwa/gitinspector)
 
 4.[github workflow](https://docs.github.com/en/actions/learn-github-action)
