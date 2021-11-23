@@ -37,7 +37,7 @@ It can help to improve a person's concentration as well as strategic thinking
 
 ## Defining Our System
 
-![Description](https://app.diagrams.net/#HHarithavk03%2FM1_App_Game%2Fmain%2FUntitled%20Diagram.drawio)
+![Description](https://i.postimg.cc/QM83sfyj/flow.png)
 ### Explanation:
 * The game starts giving you three input options(1, 2, 3):
     * 1 means you play using 'X'.
