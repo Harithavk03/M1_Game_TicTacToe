@@ -52,7 +52,7 @@ It can help to improve a person's concentration as well as strategic thinking
 * If not, then it again checks if it is a draw situation.
 
 ## SWOT ANALYSIS
-![SWOT Analysis](C:\Users\Arjun\Downloads\M1_Game_TicTacToe\M1_Game_TicTacToe\SWOT ANALYSIS.pptx)
+![SWOT Analysis](https://i.postimg.cc/x196SN1M/SWOT-ANALYSIS.jpg)
 
 # 4W&#39;s and 1&#39;H
 
