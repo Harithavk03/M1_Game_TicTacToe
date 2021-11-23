@@ -1,3 +1,13 @@
 # SDLC Activity Based Learning
 
 ![SDLC Activity Based Learning](https://user-images.githubusercontent.com/94163693/142990435-63d03699-6bfb-48e4-b776-782a0c39bea0.png)
+
+#Folder Structure
+
+------------------------------------------------------------------------------
+    Folder	            |                  Description
+1_Requirements	        |       Documents detailing requirements and research
+2_Design	              |       Documents specifying design details
+3_Implementation	      |       All code and documentation
+4_Test_plan	            |       Documents with test plans and procedures
+-------------------------------------------------------------------------------
