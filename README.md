@@ -7,8 +7,8 @@
     | Folder | Description |
     | 1_Requirements | Documents detailing requirements and research |
     | 2_Design | Documents specifying design details |
-    | 3_Implementation |	    All code and documentation |
-    | 4_Test_plan |	            Documents with test plans and procedures |
+    | 3_Implementation | All code and documentation |
+    | 4_Test_plan | Documents with test plans and procedures |
 
 # Challenges Faced and How Was It Overcome
 
@@ -18,4 +18,4 @@
 
 # Learning Resources
 
-1.![markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1.[markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
