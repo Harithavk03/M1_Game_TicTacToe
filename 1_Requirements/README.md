@@ -98,4 +98,6 @@ It can help to improve a person's concentration as well as strategic thinking
 | LR07 | If the user gets 3 Xs or 3 Os(as per his choice), in vertical,horizontal or diagonal row, he'll win. | HR05 |
 | LR08 | If the total number of moves, i.e., 9 moves have been completed and neithe the user nor the computer has won, it'll end up in a draw. | HR06 |
 
+## Developed By
 
+Haritha V K
