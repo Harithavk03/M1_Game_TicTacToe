@@ -7,7 +7,7 @@
 
 
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7244000ceab247a29b12f1a61dc0fee6)(https://app.codacy.com/gh/Harithavk03/M1_Game_TicTacToe/dashboard?branch=main)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7244000ceab247a29b12f1a61dc0fee6)](https://app.codacy.com/gh/Harithavk03/M1_Game_TicTacToe/dashboard?branch=main)
 
 
 
