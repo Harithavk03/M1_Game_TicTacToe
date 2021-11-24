@@ -1,3 +1,9 @@
+<a href="https://app.codiga.io/public/project/29826/M1_Game_TicTacToe/dashboard">
+   <img src="https://app.codiga.io/analysis/result/29826/1150671" />
+   <img  src="https://api.codiga.io/project/29826/score/svg" />
+   <img src="https://api.codiga.io/project/29826/status/svg" />
+
+</a>
 
 
 
