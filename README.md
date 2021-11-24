@@ -1,4 +1,5 @@
 <a href="https://app.codiga.io/public/project/29826/M1_Game_TicTacToe/dashboard">
+   <img src="https://code-inspector.com/public/badge/user/github/Harithavk03?style=light%22%20alt=%22code%20inspector%20badge" />
    <img  src="https://api.codiga.io/project/29826/score/svg" />
    <img src="https://api.codiga.io/project/29826/status/svg" />
 
