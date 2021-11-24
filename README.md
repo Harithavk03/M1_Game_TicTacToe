@@ -1,5 +1,4 @@
 <a href="https://app.codiga.io/public/project/29826/M1_Game_TicTacToe/dashboard">
-   <img src="https://app.codiga.io/analysis/result/29826/1150671" />
    <img  src="https://api.codiga.io/project/29826/score/svg" />
    <img src="https://api.codiga.io/project/29826/status/svg" />
 
@@ -8,8 +7,7 @@
 
 
 
-
-[!Codacy Badge](https://app.codacy.com/project/badge/Grade/7244000ceab247a29b12f1a61dc0fee6)(https://app.codacy.com/gh/Harithavk03/M1_Game_TicTacToe/dashboard?branch=main)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7244000ceab247a29b12f1a61dc0fee6)(https://app.codacy.com/gh/Harithavk03/M1_Game_TicTacToe/dashboard?branch=main)
 
 
 
